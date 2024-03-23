@@ -6,7 +6,7 @@ public class Swordsman : Adventurer
 {
     public override void Attack()
     {
-        Debug.Log("1st Job: Swordsman");
         base.Attack();
+        Debug.Log("1st Job: Swordsman");
     }
 }

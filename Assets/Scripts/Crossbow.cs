@@ -6,7 +6,7 @@ public class Crossbow : Archer
 {
     public override void Attack()
     {
-        Debug.Log("2nd Job: Crossbow");
         base.Attack();
+        Debug.Log("2nd Job: Crossbow");
     }
 }
